@@ -27,6 +27,15 @@
             background: linear-gradient(90deg, #e10600, #ff6b6b);
             border-radius: 10px;
         }
+        /* Ensure Bootstrap progress bars show F1 red theme */
+        .progress { background-color: #f0f0f0; }
+        .progress-bar.f1-bg { background-color: #e10600; background-image: linear-gradient(90deg, #e10600, #ff6b6b); }
+        /* Podium sizing: center gold taller, silver medium, bronze shortest */
+        .podium { display: flex; justify-content: center; align-items: flex-end; gap: 12px; }
+        .podium-place { width: 100px; border-radius: 12px; color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
+        .podium-place:nth-child(1) { height: 90px; }
+        .podium-place:nth-child(2) { height: 120px; }
+        .podium-place:nth-child(3) { height: 70px; }
         .team-logo {
             width: 30px;
             height: 30px;

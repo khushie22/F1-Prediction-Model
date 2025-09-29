@@ -34,7 +34,7 @@
                             <div class="col-md-4">
                                 <div class="progress mb-2">
                                     <div class="progress-bar f1-bg" role="progressbar" 
-                                         data-width="{{ (driver.Win_Probability * 100) | round(1) }}"
+                                         style="width: {{ (driver.Win_Probability * 100) | round(1) }}%"
                                          aria-valuenow="{{ (driver.Win_Probability * 100)|round(1) }}" 
                                          aria-valuemin="0" aria-valuemax="100">
                                     </div>
@@ -71,15 +71,15 @@
             <div class="card-body">
                 <div class="text-center mb-3">
                     <div class="podium">
-                        <div class="podium-place" style="background: linear-gradient(45deg, #FFD700, #FFA500);">
-                            <h5>🥇 1st</h5>
-                            <strong>{{ predictions.iloc[0].FullName }}</strong><br>
-                            <small>{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</small>
-                        </div>
                         <div class="podium-place" style="background: linear-gradient(45deg, #C0C0C0, #A0A0A0);">
                             <h5>🥈 2nd</h5>
                             <strong>{{ predictions.iloc[1].FullName }}</strong><br>
                             <small>{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</small>
+                        </div>
+                        <div class="podium-place" style="background: linear-gradient(45deg, #FFD700, #FFA500);">
+                            <h5>🥇 1st</h5>
+                            <strong>{{ predictions.iloc[0].FullName }}</strong><br>
+                            <small>{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</small>
                         </div>
                         <div class="podium-place" style="background: linear-gradient(45deg, #CD7F32, #B8860B);">
                             <h5>🥉 3rd</h5>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                     <div class="progress-bar f1-bg" role="progressbar" 
-                         data-width=" {{ (data.Total_Win_Probability * 100)|round(1) }}%">
+                         style="width: {{ (data.Total_Win_Probability * 100)|round(1) }}%">
                     </div>
                 </div>
                 {% endfor %}
