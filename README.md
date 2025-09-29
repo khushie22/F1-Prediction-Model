@@ -127,8 +127,6 @@ predictions = model.predict_proba(X_2025)
 # Get all predictions
 curl http://localhost:5000/api/predictions
 
-# Get feature importance
-curl http://localhost:5000/api/feature-importance
 ```
 
 ## ⚠️ Limitations
