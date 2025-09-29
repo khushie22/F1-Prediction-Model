@@ -71,20 +71,29 @@
             <div class="card-body">
                 <div class="text-center mb-3">
                     <div class="podium">
-                        <div class="podium-place" style="background: linear-gradient(45deg, #C0C0C0, #A0A0A0);">
-                            <h5>🥈 2nd</h5>
-                            <strong>{{ predictions.iloc[1].FullName }}</strong><br>
-                            <small>{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</small>
+                        <!-- 2nd (left) -->
+                        <div class="d-flex flex-column align-items-center podium-col">
+                            <div class="mb-2"><span class="badge bg-primary">🥈 2nd</span></div>
+                            <div class="podium-place" style="background: linear-gradient(45deg, #C0C0C0, #A0A0A0);">
+                                <strong>{{ predictions.iloc[1].FullName }}</strong>
+                            </div>
+                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</span></div>
                         </div>
-                        <div class="podium-place" style="background: linear-gradient(45deg, #FFD700, #FFA500);">
-                            <h5>🥇 1st</h5>
-                            <strong>{{ predictions.iloc[0].FullName }}</strong><br>
-                            <small>{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</small>
+                        <!-- 1st (center) -->
+                        <div class="d-flex flex-column align-items-center podium-col">
+                            <div class="mb-2"><span class="badge bg-primary">🥇 1st</span></div>
+                            <div class="podium-place" style="background: linear-gradient(45deg, #FFD700, #FFA500);">
+                                <strong>{{ predictions.iloc[0].FullName }}</strong>
+                            </div>
+                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</span></div>
                         </div>
-                        <div class="podium-place" style="background: linear-gradient(45deg, #CD7F32, #B8860B);">
-                            <h5>🥉 3rd</h5>
-                            <strong>{{ predictions.iloc[2].FullName }}</strong><br>
-                            <small>{{ "%.1f"|format(predictions.iloc[2].Win_Probability * 100) }}%</small>
+                        <!-- 3rd (right) -->
+                        <div class="d-flex flex-column align-items-center podium-col">
+                            <div class="mb-2"><span class="badge bg-primary">🥉 3rd</span></div>
+                            <div class="podium-place" style="background: linear-gradient(45deg, #CD7F32, #B8860B);">
+                                <strong>{{ predictions.iloc[2].FullName }}</strong>
+                            </div>
+                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[2].Win_Probability * 100) }}%</span></div>
                         </div>
                     </div>
                 </div>
@@ -131,29 +140,13 @@
 {% block scripts %}
 
 <style>
-.podium {
-    display: flex;
-    justify-content: center;
-    align-items: end;
-    gap: 10px;
-    height: 120px;
-}
-
+.podium-col { min-width: 100px; }
 .podium-place {
-    width: 80px;
-    height: 80px;
-    border-radius: 10px;
+    width: 100px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    padding: 12px 8px;
 }
-
-.podium-place:nth-child(1) { height: 100px; }
-.podium-place:nth-child(2) { height: 80px; }
-.podium-place:nth-child(3) { height: 60px; }
 </style>
 {% endblock %}
