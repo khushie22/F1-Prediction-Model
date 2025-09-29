@@ -1,0 +1,359 @@
+Year,Race,Date,Abbreviation,FullName,TeamName,Position,Points,GridPosition,Status,Time
+2008,Singapore,2008-09-28 12:00:00,ALO,Fernando Alonso,Renault,1.0,10.0,15.0,Finished,0 days 01:57:16.304000
+2008,Singapore,2008-09-28 12:00:00,ROS,Nico Rosberg,Williams,2.0,8.0,8.0,Finished,0 days 00:00:02.957000
+2008,Singapore,2008-09-28 12:00:00,HAM,Lewis Hamilton,McLaren,3.0,6.0,2.0,Finished,0 days 00:00:05.917000
+2008,Singapore,2008-09-28 12:00:00,GLO,Timo Glock,Toyota,4.0,5.0,7.0,Finished,0 days 00:00:08.155000
+2008,Singapore,2008-09-28 12:00:00,VET,Sebastian Vettel,Toro Rosso,5.0,4.0,6.0,Finished,0 days 00:00:10.268000
+2008,Singapore,2008-09-28 12:00:00,HEI,Nick Heidfeld,BMW Sauber,6.0,3.0,9.0,Finished,0 days 00:00:11.101000
+2008,Singapore,2008-09-28 12:00:00,COU,David Coulthard,Red Bull,7.0,2.0,14.0,Finished,0 days 00:00:16.387000
+2008,Singapore,2008-09-28 12:00:00,NAK,Kazuki Nakajima,Williams,8.0,1.0,10.0,Finished,0 days 00:00:18.489000
+2008,Singapore,2008-09-28 12:00:00,BUT,Jenson Button,Honda,9.0,0.0,12.0,Finished,0 days 00:00:19.885000
+2008,Singapore,2008-09-28 12:00:00,KOV,Heikki Kovalainen,McLaren,10.0,0.0,5.0,Finished,0 days 00:00:26.902000
+2008,Singapore,2008-09-28 12:00:00,KUB,Robert Kubica,BMW Sauber,11.0,0.0,4.0,Finished,0 days 00:00:27.975000
+2008,Singapore,2008-09-28 12:00:00,BOU,Sébastien Bourdais,Toro Rosso,12.0,0.0,17.0,Finished,0 days 00:00:29.432000
+2008,Singapore,2008-09-28 12:00:00,MAS,Felipe Massa,Ferrari,13.0,0.0,1.0,Finished,0 days 00:00:35.170000
+2008,Singapore,2008-09-28 12:00:00,FIS,Giancarlo Fisichella,Force India,14.0,0.0,20.0,Finished,0 days 00:00:43.571000
+2008,Singapore,2008-09-28 12:00:00,RAI,Kimi Räikkönen,Ferrari,15.0,0.0,3.0,Accident,
+2008,Singapore,2008-09-28 12:00:00,TRU,Jarno Trulli,Toyota,16.0,0.0,11.0,Hydraulics,
+2008,Singapore,2008-09-28 12:00:00,SUT,Adrian Sutil,Force India,17.0,0.0,19.0,Accident,
+2008,Singapore,2008-09-28 12:00:00,WEB,Mark Webber,Red Bull,18.0,0.0,13.0,Transmission,
+2008,Singapore,2008-09-28 12:00:00,BAR,Rubens Barrichello,Honda,19.0,0.0,18.0,Mechanical,
+2008,Singapore,2008-09-28 12:00:00,PIQ,Nelson Piquet Jr.,Renault,20.0,0.0,16.0,Accident,
+2009,Singapore,2009-09-27 12:00:00,HAM,Lewis Hamilton,McLaren,1.0,10.0,1.0,Finished,0 days 01:56:06.337000
+2009,Singapore,2009-09-27 12:00:00,GLO,Timo Glock,Toyota,2.0,8.0,6.0,Finished,0 days 00:00:09.634000
+2009,Singapore,2009-09-27 12:00:00,ALO,Fernando Alonso,Renault,3.0,6.0,5.0,Finished,0 days 00:00:16.624000
+2009,Singapore,2009-09-27 12:00:00,VET,Sebastian Vettel,Red Bull,4.0,5.0,2.0,Finished,0 days 00:00:20.621000
+2009,Singapore,2009-09-27 12:00:00,BUT,Jenson Button,Brawn,5.0,4.0,11.0,Finished,0 days 00:00:30.015000
+2009,Singapore,2009-09-27 12:00:00,BAR,Rubens Barrichello,Brawn,6.0,3.0,9.0,Finished,0 days 00:00:31.858000
+2009,Singapore,2009-09-27 12:00:00,KOV,Heikki Kovalainen,McLaren,7.0,2.0,8.0,Finished,0 days 00:00:36.157000
+2009,Singapore,2009-09-27 12:00:00,KUB,Robert Kubica,BMW Sauber,8.0,1.0,7.0,Finished,0 days 00:00:55.054000
+2009,Singapore,2009-09-27 12:00:00,NAK,Kazuki Nakajima,Williams,9.0,0.0,10.0,Finished,0 days 00:00:56.054000
+2009,Singapore,2009-09-27 12:00:00,RAI,Kimi Räikkönen,Ferrari,10.0,0.0,12.0,Finished,0 days 00:00:58.892000
+2009,Singapore,2009-09-27 12:00:00,ROS,Nico Rosberg,Williams,11.0,0.0,3.0,Finished,0 days 00:00:59.777000
+2009,Singapore,2009-09-27 12:00:00,TRU,Jarno Trulli,Toyota,12.0,0.0,14.0,Finished,0 days 00:01:13.009000
+2009,Singapore,2009-09-27 12:00:00,FIS,Giancarlo Fisichella,Ferrari,13.0,0.0,17.0,Finished,0 days 00:01:19.890000
+2009,Singapore,2009-09-27 12:00:00,LIU,Vitantonio Liuzzi,Force India,14.0,0.0,19.0,Finished,0 days 00:01:33.502000
+2009,Singapore,2009-09-27 12:00:00,ALG,Jaime Alguersuari,Toro Rosso,15.0,0.0,16.0,Brakes,
+2009,Singapore,2009-09-27 12:00:00,BUE,Sébastien Buemi,Toro Rosso,16.0,0.0,13.0,Gearbox,
+2009,Singapore,2009-09-27 12:00:00,WEB,Mark Webber,Red Bull,17.0,0.0,4.0,Brakes,
+2009,Singapore,2009-09-27 12:00:00,SUT,Adrian Sutil,Force India,18.0,0.0,15.0,Collision,
+2009,Singapore,2009-09-27 12:00:00,HEI,Nick Heidfeld,BMW Sauber,19.0,0.0,20.0,Collision,
+2009,Singapore,2009-09-27 12:00:00,GRO,Romain Grosjean,Renault,20.0,0.0,18.0,Brakes,
+2010,Singapore,2010-09-26 12:00:00,ALO,Fernando Alonso,Ferrari,1.0,25.0,1.0,Finished,0 days 01:57:53.579000
+2010,Singapore,2010-09-26 12:00:00,VET,Sebastian Vettel,Red Bull,2.0,18.0,2.0,Finished,0 days 00:00:00.293000
+2010,Singapore,2010-09-26 12:00:00,WEB,Mark Webber,Red Bull,3.0,15.0,5.0,Finished,0 days 00:00:29.141000
+2010,Singapore,2010-09-26 12:00:00,BUT,Jenson Button,McLaren,4.0,12.0,4.0,Finished,0 days 00:00:30.384000
+2010,Singapore,2010-09-26 12:00:00,ROS,Nico Rosberg,Mercedes,5.0,10.0,7.0,Finished,0 days 00:00:49.394000
+2010,Singapore,2010-09-26 12:00:00,BAR,Rubens Barrichello,Williams,6.0,8.0,6.0,Finished,0 days 00:00:56.101000
+2010,Singapore,2010-09-26 12:00:00,KUB,Robert Kubica,Renault,7.0,6.0,8.0,Finished,0 days 00:01:26.559000
+2010,Singapore,2010-09-26 12:00:00,MAS,Felipe Massa,Ferrari,8.0,4.0,24.0,Finished,0 days 00:01:53.297000
+2010,Singapore,2010-09-26 12:00:00,SUT,Adrian Sutil,Force India,9.0,2.0,15.0,Finished,0 days 00:02:02.416000
+2010,Singapore,2010-09-26 12:00:00,HUL,Nico Hülkenberg,Williams,10.0,1.0,17.0,Finished,0 days 00:02:12.791000
+2010,Singapore,2010-09-26 12:00:00,PET,Vitaly Petrov,Renault,11.0,0.0,12.0,+1 Lap,
+2010,Singapore,2010-09-26 12:00:00,ALG,Jaime Alguersuari,Toro Rosso,12.0,0.0,11.0,+1 Lap,
+2010,Singapore,2010-09-26 12:00:00,MSC,Michael Schumacher,Mercedes,13.0,0.0,9.0,+1 Lap,
+2010,Singapore,2010-09-26 12:00:00,BUE,Sébastien Buemi,Toro Rosso,14.0,0.0,13.0,+1 Lap,
+2010,Singapore,2010-09-26 12:00:00,DIG,Lucas di Grassi,Virgin,15.0,0.0,20.0,+2 Laps,
+2010,Singapore,2010-09-26 12:00:00,KOV,Heikki Kovalainen,Lotus,16.0,0.0,19.0,Engine,
+2010,Singapore,2010-09-26 12:00:00,GLO,Timo Glock,Virgin,17.0,0.0,18.0,Hydraulics,
+2010,Singapore,2010-09-26 12:00:00,HEI,Nick Heidfeld,Sauber,18.0,0.0,14.0,Collision,
+2010,Singapore,2010-09-26 12:00:00,HAM,Lewis Hamilton,McLaren,19.0,0.0,3.0,Collision,
+2010,Singapore,2010-09-26 12:00:00,KLI,Christian Klien,HRT,20.0,0.0,22.0,Hydraulics,
+2010,Singapore,2010-09-26 12:00:00,KOB,Kamui Kobayashi,Sauber,21.0,0.0,10.0,Accident,
+2010,Singapore,2010-09-26 12:00:00,SEN,Bruno Senna,HRT,22.0,0.0,23.0,Accident,
+2010,Singapore,2010-09-26 12:00:00,TRU,Jarno Trulli,Lotus,23.0,0.0,21.0,Hydraulics,
+2010,Singapore,2010-09-26 12:00:00,LIU,Vitantonio Liuzzi,Force India,24.0,0.0,16.0,Collision,
+2011,Singapore,2011-09-25 12:00:00,VET,Sebastian Vettel,Red Bull,1.0,25.0,1.0,Finished,0 days 01:59:06.757000
+2011,Singapore,2011-09-25 12:00:00,BUT,Jenson Button,McLaren,2.0,18.0,3.0,Finished,0 days 00:00:01.737000
+2011,Singapore,2011-09-25 12:00:00,WEB,Mark Webber,Red Bull,3.0,15.0,2.0,Finished,0 days 00:00:29.279000
+2011,Singapore,2011-09-25 12:00:00,ALO,Fernando Alonso,Ferrari,4.0,12.0,5.0,Finished,0 days 00:00:55.449000
+2011,Singapore,2011-09-25 12:00:00,HAM,Lewis Hamilton,McLaren,5.0,10.0,4.0,Finished,0 days 00:01:07.766000
+2011,Singapore,2011-09-25 12:00:00,DIR,Paul di Resta,Force India,6.0,8.0,10.0,Finished,0 days 00:01:51.067000
+2011,Singapore,2011-09-25 12:00:00,ROS,Nico Rosberg,Mercedes,7.0,6.0,7.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,SUT,Adrian Sutil,Force India,8.0,4.0,9.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,MAS,Felipe Massa,Ferrari,9.0,2.0,6.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,PER,Sergio Pérez,Sauber,10.0,1.0,11.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,MAL,Pastor Maldonado,Williams,11.0,0.0,13.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,BUE,Sébastien Buemi,Toro Rosso,12.0,0.0,14.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,BAR,Rubens Barrichello,Williams,13.0,0.0,12.0,+1 Lap,
+2011,Singapore,2011-09-25 12:00:00,KOB,Kamui Kobayashi,Sauber,14.0,0.0,17.0,+2 Laps,
+2011,Singapore,2011-09-25 12:00:00,SEN,Bruno Senna,Renault,15.0,0.0,15.0,+2 Laps,
+2011,Singapore,2011-09-25 12:00:00,KOV,Heikki Kovalainen,Lotus,16.0,0.0,19.0,+2 Laps,
+2011,Singapore,2011-09-25 12:00:00,PET,Vitaly Petrov,Renault,17.0,0.0,18.0,+2 Laps,
+2011,Singapore,2011-09-25 12:00:00,DAM,Jérôme d'Ambrosio,Virgin,18.0,0.0,22.0,+2 Laps,
+2011,Singapore,2011-09-25 12:00:00,RIC,Daniel Ricciardo,HRT,19.0,0.0,23.0,+4 Laps,
+2011,Singapore,2011-09-25 12:00:00,LIU,Vitantonio Liuzzi,HRT,20.0,0.0,24.0,+4 Laps,
+2011,Singapore,2011-09-25 12:00:00,ALG,Jaime Alguersuari,Toro Rosso,21.0,0.0,16.0,Accident,
+2011,Singapore,2011-09-25 12:00:00,TRU,Jarno Trulli,Lotus,22.0,0.0,20.0,Gearbox,
+2011,Singapore,2011-09-25 12:00:00,MSC,Michael Schumacher,Mercedes,23.0,0.0,8.0,Accident,
+2011,Singapore,2011-09-25 12:00:00,GLO,Timo Glock,Virgin,24.0,0.0,21.0,Accident,
+2012,Singapore,2012-09-23 12:00:00,VET,Sebastian Vettel,Red Bull,1.0,25.0,3.0,Finished,0 days 02:00:26.144000
+2012,Singapore,2012-09-23 12:00:00,BUT,Jenson Button,McLaren,2.0,18.0,4.0,Finished,0 days 00:00:08.959000
+2012,Singapore,2012-09-23 12:00:00,ALO,Fernando Alonso,Ferrari,3.0,15.0,5.0,Finished,0 days 00:00:15.227000
+2012,Singapore,2012-09-23 12:00:00,DIR,Paul di Resta,Force India,4.0,12.0,6.0,Finished,0 days 00:00:19.063000
+2012,Singapore,2012-09-23 12:00:00,ROS,Nico Rosberg,Mercedes,5.0,10.0,10.0,Finished,0 days 00:00:34.784000
+2012,Singapore,2012-09-23 12:00:00,RAI,Kimi Räikkönen,Lotus F1,6.0,8.0,12.0,Finished,0 days 00:00:35.759000
+2012,Singapore,2012-09-23 12:00:00,GRO,Romain Grosjean,Lotus F1,7.0,6.0,8.0,Finished,0 days 00:00:36.698000
+2012,Singapore,2012-09-23 12:00:00,MAS,Felipe Massa,Ferrari,8.0,4.0,13.0,Finished,0 days 00:00:42.829000
+2012,Singapore,2012-09-23 12:00:00,RIC,Daniel Ricciardo,Toro Rosso,9.0,2.0,15.0,Finished,0 days 00:00:45.820000
+2012,Singapore,2012-09-23 12:00:00,PER,Sergio Pérez,Sauber,10.0,1.0,14.0,Finished,0 days 00:00:50.619000
+2012,Singapore,2012-09-23 12:00:00,WEB,Mark Webber,Red Bull,11.0,0.0,7.0,Finished,0 days 00:01:27.175000
+2012,Singapore,2012-09-23 12:00:00,GLO,Timo Glock,Marussia,12.0,0.0,20.0,Finished,0 days 00:01:31.918000
+2012,Singapore,2012-09-23 12:00:00,KOB,Kamui Kobayashi,Sauber,13.0,0.0,17.0,Finished,0 days 00:01:37.141000
+2012,Singapore,2012-09-23 12:00:00,HUL,Nico Hülkenberg,Force India,14.0,0.0,11.0,Finished,0 days 00:01:39.413000
+2012,Singapore,2012-09-23 12:00:00,KOV,Heikki Kovalainen,Caterham,15.0,0.0,19.0,Finished,0 days 00:01:47.967000
+2012,Singapore,2012-09-23 12:00:00,PIC,Charles Pic,Marussia,16.0,0.0,21.0,Finished,0 days 00:02:12.925000
+2012,Singapore,2012-09-23 12:00:00,DLR,Pedro de la Rosa,HRT,17.0,0.0,24.0,+1 Lap,
+2012,Singapore,2012-09-23 12:00:00,SEN,Bruno Senna,Williams,18.0,0.0,22.0,Retired,
+2012,Singapore,2012-09-23 12:00:00,PET,Vitaly Petrov,Caterham,19.0,0.0,18.0,+2 Laps,
+2012,Singapore,2012-09-23 12:00:00,VER,Jean-Éric Vergne,Toro Rosso,20.0,0.0,16.0,Collision,
+2012,Singapore,2012-09-23 12:00:00,MSC,Michael Schumacher,Mercedes,21.0,0.0,9.0,Collision,
+2012,Singapore,2012-09-23 12:00:00,MAL,Pastor Maldonado,Williams,22.0,0.0,2.0,Hydraulics,
+2012,Singapore,2012-09-23 12:00:00,KAR,Narain Karthikeyan,HRT,23.0,0.0,23.0,Accident,
+2012,Singapore,2012-09-23 12:00:00,HAM,Lewis Hamilton,McLaren,24.0,0.0,1.0,Gearbox,
+2013,Singapore,2013-09-22 12:00:00,VET,Sebastian Vettel,Red Bull,1.0,25.0,1.0,Finished,0 days 01:59:13.132000
+2013,Singapore,2013-09-22 12:00:00,ALO,Fernando Alonso,Ferrari,2.0,18.0,7.0,Finished,0 days 00:00:32.627000
+2013,Singapore,2013-09-22 12:00:00,RAI,Kimi Räikkönen,Lotus F1,3.0,15.0,13.0,Finished,0 days 00:00:43.920000
+2013,Singapore,2013-09-22 12:00:00,ROS,Nico Rosberg,Mercedes,4.0,12.0,2.0,Finished,0 days 00:00:51.155000
+2013,Singapore,2013-09-22 12:00:00,HAM,Lewis Hamilton,Mercedes,5.0,10.0,5.0,Finished,0 days 00:00:53.159000
+2013,Singapore,2013-09-22 12:00:00,MAS,Felipe Massa,Ferrari,6.0,8.0,6.0,Finished,0 days 00:01:03.877000
+2013,Singapore,2013-09-22 12:00:00,BUT,Jenson Button,McLaren,7.0,6.0,8.0,Finished,0 days 00:01:23.354000
+2013,Singapore,2013-09-22 12:00:00,PER,Sergio Pérez,McLaren,8.0,4.0,14.0,Finished,0 days 00:01:23.820000
+2013,Singapore,2013-09-22 12:00:00,HUL,Nico Hülkenberg,Sauber,9.0,2.0,11.0,Finished,0 days 00:01:24.261000
+2013,Singapore,2013-09-22 12:00:00,SUT,Adrian Sutil,Force India,10.0,1.0,15.0,Finished,0 days 00:01:24.668000
+2013,Singapore,2013-09-22 12:00:00,MAL,Pastor Maldonado,Williams,11.0,0.0,18.0,Finished,0 days 00:01:28.479000
+2013,Singapore,2013-09-22 12:00:00,GUT,Esteban Gutiérrez,Sauber,12.0,0.0,10.0,Finished,0 days 00:01:37.894000
+2013,Singapore,2013-09-22 12:00:00,BOT,Valtteri Bottas,Williams,13.0,0.0,16.0,Finished,0 days 00:01:45.161000
+2013,Singapore,2013-09-22 12:00:00,VER,Jean-Éric Vergne,Toro Rosso,14.0,0.0,12.0,Finished,0 days 00:01:53.512000
+2013,Singapore,2013-09-22 12:00:00,WEB,Mark Webber,Red Bull,15.0,0.0,4.0,Water pressure,
+2013,Singapore,2013-09-22 12:00:00,VDG,Giedo van der Garde,Caterham,16.0,0.0,20.0,+1 Lap,
+2013,Singapore,2013-09-22 12:00:00,CHI,Max Chilton,Marussia,17.0,0.0,22.0,+1 Lap,
+2013,Singapore,2013-09-22 12:00:00,BIA,Jules Bianchi,Marussia,18.0,0.0,21.0,+1 Lap,
+2013,Singapore,2013-09-22 12:00:00,PIC,Charles Pic,Caterham,19.0,0.0,19.0,+1 Lap,
+2013,Singapore,2013-09-22 12:00:00,DIR,Paul di Resta,Force India,20.0,0.0,17.0,Accident,
+2013,Singapore,2013-09-22 12:00:00,GRO,Romain Grosjean,Lotus F1,21.0,0.0,3.0,Pneumatics,
+2013,Singapore,2013-09-22 12:00:00,RIC,Daniel Ricciardo,Toro Rosso,22.0,0.0,9.0,Accident,
+2014,Singapore,2014-09-21 12:00:00,HAM,Lewis Hamilton,Mercedes,1.0,25.0,1.0,Finished,0 days 02:00:04.795000
+2014,Singapore,2014-09-21 12:00:00,VET,Sebastian Vettel,Red Bull,2.0,18.0,4.0,Finished,0 days 00:00:13.534000
+2014,Singapore,2014-09-21 12:00:00,RIC,Daniel Ricciardo,Red Bull,3.0,15.0,3.0,Finished,0 days 00:00:14.273000
+2014,Singapore,2014-09-21 12:00:00,ALO,Fernando Alonso,Ferrari,4.0,12.0,5.0,Finished,0 days 00:00:15.389000
+2014,Singapore,2014-09-21 12:00:00,MAS,Felipe Massa,Williams,5.0,10.0,6.0,Finished,0 days 00:00:42.161000
+2014,Singapore,2014-09-21 12:00:00,VER,Jean-Éric Vergne,Toro Rosso,6.0,8.0,12.0,Finished,0 days 00:00:56.801000
+2014,Singapore,2014-09-21 12:00:00,PER,Sergio Pérez,Force India,7.0,6.0,15.0,Finished,0 days 00:00:59.038000
+2014,Singapore,2014-09-21 12:00:00,RAI,Kimi Räikkönen,Ferrari,8.0,4.0,7.0,Finished,0 days 00:01:00.641000
+2014,Singapore,2014-09-21 12:00:00,HUL,Nico Hülkenberg,Force India,9.0,2.0,13.0,Finished,0 days 00:01:01.661000
+2014,Singapore,2014-09-21 12:00:00,MAG,Kevin Magnussen,McLaren,10.0,1.0,9.0,Finished,0 days 00:01:02.230000
+2014,Singapore,2014-09-21 12:00:00,BOT,Valtteri Bottas,Williams,11.0,0.0,8.0,Finished,0 days 00:01:05.065000
+2014,Singapore,2014-09-21 12:00:00,MAL,Pastor Maldonado,Lotus F1,12.0,0.0,18.0,Finished,0 days 00:01:06.915000
+2014,Singapore,2014-09-21 12:00:00,GRO,Romain Grosjean,Lotus F1,13.0,0.0,16.0,Finished,0 days 00:01:08.029000
+2014,Singapore,2014-09-21 12:00:00,KVY,Daniil Kvyat,Toro Rosso,14.0,0.0,10.0,Finished,0 days 00:01:12.008000
+2014,Singapore,2014-09-21 12:00:00,ERI,Marcus Ericsson,Caterham,15.0,0.0,22.0,Finished,0 days 00:01:34.188000
+2014,Singapore,2014-09-21 12:00:00,BIA,Jules Bianchi,Marussia,16.0,0.0,19.0,Finished,0 days 00:01:34.543000
+2014,Singapore,2014-09-21 12:00:00,CHI,Max Chilton,Marussia,17.0,0.0,21.0,+1 Lap,
+2014,Singapore,2014-09-21 12:00:00,BUT,Jenson Button,McLaren,18.0,0.0,11.0,Retired,
+2014,Singapore,2014-09-21 12:00:00,SUT,Adrian Sutil,Sauber,19.0,0.0,17.0,Water pressure,
+2014,Singapore,2014-09-21 12:00:00,GUT,Esteban Gutiérrez,Sauber,20.0,0.0,14.0,Electrical,
+2014,Singapore,2014-09-21 12:00:00,ROS,Nico Rosberg,Mercedes,21.0,0.0,2.0,Electrical,
+2014,Singapore,2014-09-21 12:00:00,KOB,Kamui Kobayashi,Caterham,22.0,0.0,20.0,Power Unit,
+2015,Singapore,2015-09-20 12:00:00,VET,Sebastian Vettel,Ferrari,1.0,25.0,1.0,Finished,0 days 02:01:22.118000
+2015,Singapore,2015-09-20 12:00:00,RIC,Daniel Ricciardo,Red Bull,2.0,18.0,2.0,Finished,0 days 00:00:01.478000
+2015,Singapore,2015-09-20 12:00:00,RAI,Kimi Räikkönen,Ferrari,3.0,15.0,3.0,Finished,0 days 00:00:17.154000
+2015,Singapore,2015-09-20 12:00:00,ROS,Nico Rosberg,Mercedes,4.0,12.0,6.0,Finished,0 days 00:00:24.720000
+2015,Singapore,2015-09-20 12:00:00,BOT,Valtteri Bottas,Williams,5.0,10.0,7.0,Finished,0 days 00:00:34.204000
+2015,Singapore,2015-09-20 12:00:00,KVY,Daniil Kvyat,Red Bull,6.0,8.0,4.0,Finished,0 days 00:00:35.508000
+2015,Singapore,2015-09-20 12:00:00,PER,Sergio Pérez,Force India,7.0,6.0,13.0,Finished,0 days 00:00:50.836000
+2015,Singapore,2015-09-20 12:00:00,VER,Max Verstappen,Toro Rosso,8.0,4.0,8.0,Finished,0 days 00:00:51.450000
+2015,Singapore,2015-09-20 12:00:00,SAI,Carlos Sainz,Toro Rosso,9.0,2.0,14.0,Finished,0 days 00:00:52.860000
+2015,Singapore,2015-09-20 12:00:00,NAS,Felipe Nasr,Sauber,10.0,1.0,16.0,Finished,0 days 00:01:30.045000
+2015,Singapore,2015-09-20 12:00:00,ERI,Marcus Ericsson,Sauber,11.0,0.0,17.0,Finished,0 days 00:01:37.507000
+2015,Singapore,2015-09-20 12:00:00,MAL,Pastor Maldonado,Lotus F1,12.0,0.0,18.0,Finished,0 days 00:01:37.718000
+2015,Singapore,2015-09-20 12:00:00,GRO,Romain Grosjean,Lotus F1,13.0,0.0,10.0,Tyre,
+2015,Singapore,2015-09-20 12:00:00,RSS,Alexander Rossi,Manor Marussia,14.0,0.0,20.0,+2 Laps,
+2015,Singapore,2015-09-20 12:00:00,STE,Will Stevens,Manor Marussia,15.0,0.0,19.0,+2 Laps,
+2015,Singapore,2015-09-20 12:00:00,BUT,Jenson Button,McLaren,16.0,0.0,15.0,Gearbox,
+2015,Singapore,2015-09-20 12:00:00,ALO,Fernando Alonso,McLaren,17.0,0.0,12.0,Gearbox,
+2015,Singapore,2015-09-20 12:00:00,HAM,Lewis Hamilton,Mercedes,18.0,0.0,5.0,Throttle,
+2015,Singapore,2015-09-20 12:00:00,MAS,Felipe Massa,Williams,19.0,0.0,9.0,Gearbox,
+2015,Singapore,2015-09-20 12:00:00,HUL,Nico Hülkenberg,Force India,20.0,0.0,11.0,Collision,
+2016,Singapore,2016-09-18 12:00:00,ROS,Nico Rosberg,Mercedes,1.0,25.0,1.0,Finished,0 days 01:55:48.950000
+2016,Singapore,2016-09-18 12:00:00,RIC,Daniel Ricciardo,Red Bull,2.0,18.0,2.0,Finished,0 days 00:00:00.488000
+2016,Singapore,2016-09-18 12:00:00,HAM,Lewis Hamilton,Mercedes,3.0,15.0,3.0,Finished,0 days 00:00:08.038000
+2016,Singapore,2016-09-18 12:00:00,RAI,Kimi Räikkönen,Ferrari,4.0,12.0,5.0,Finished,0 days 00:00:10.219000
+2016,Singapore,2016-09-18 12:00:00,VET,Sebastian Vettel,Ferrari,5.0,10.0,22.0,Finished,0 days 00:00:27.694000
+2016,Singapore,2016-09-18 12:00:00,VER,Max Verstappen,Red Bull,6.0,8.0,4.0,Finished,0 days 00:01:11.197000
+2016,Singapore,2016-09-18 12:00:00,ALO,Fernando Alonso,McLaren,7.0,6.0,9.0,Finished,0 days 00:01:29.198000
+2016,Singapore,2016-09-18 12:00:00,PER,Sergio Pérez,Force India,8.0,4.0,17.0,Finished,0 days 00:01:51.062000
+2016,Singapore,2016-09-18 12:00:00,KVY,Daniil Kvyat,Toro Rosso,9.0,2.0,7.0,Finished,0 days 00:01:51.557000
+2016,Singapore,2016-09-18 12:00:00,MAG,Kevin Magnussen,Renault,10.0,1.0,15.0,Finished,0 days 00:01:59.952000
+2016,Singapore,2016-09-18 12:00:00,GUT,Esteban Gutiérrez,Haas F1 Team,11.0,0.0,13.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,MAS,Felipe Massa,Williams,12.0,0.0,11.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,NAS,Felipe Nasr,Sauber,13.0,0.0,16.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,SAI,Carlos Sainz,Toro Rosso,14.0,0.0,6.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,PAL,Jolyon Palmer,Renault,15.0,0.0,18.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,WEH,Pascal Wehrlein,Manor Marussia,16.0,0.0,19.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,ERI,Marcus Ericsson,Sauber,17.0,0.0,14.0,+1 Lap,
+2016,Singapore,2016-09-18 12:00:00,OCO,Esteban Ocon,Manor Marussia,18.0,0.0,21.0,+2 Laps,
+2016,Singapore,2016-09-18 12:00:00,BUT,Jenson Button,McLaren,19.0,0.0,12.0,Brakes,
+2016,Singapore,2016-09-18 12:00:00,BOT,Valtteri Bottas,Williams,20.0,0.0,10.0,Overheating,
+2016,Singapore,2016-09-18 12:00:00,HUL,Nico Hülkenberg,Force India,21.0,0.0,8.0,Collision,
+2016,Singapore,2016-09-18 12:00:00,GRO,Romain Grosjean,Haas F1 Team,22.0,0.0,20.0,Withdrew,
+2017,Singapore,2017-09-17 12:00:00,HAM,Lewis Hamilton,Mercedes,1.0,25.0,5.0,Finished,0 days 02:03:23.544000
+2017,Singapore,2017-09-17 12:00:00,RIC,Daniel Ricciardo,Red Bull,2.0,18.0,3.0,Finished,0 days 00:00:04.507000
+2017,Singapore,2017-09-17 12:00:00,BOT,Valtteri Bottas,Mercedes,3.0,15.0,6.0,Finished,0 days 00:00:08.800000
+2017,Singapore,2017-09-17 12:00:00,SAI,Carlos Sainz,Toro Rosso,4.0,12.0,10.0,Finished,0 days 00:00:22.822000
+2017,Singapore,2017-09-17 12:00:00,PER,Sergio Pérez,Force India,5.0,10.0,12.0,Finished,0 days 00:00:25.359000
+2017,Singapore,2017-09-17 12:00:00,PAL,Jolyon Palmer,Renault,6.0,8.0,11.0,Finished,0 days 00:00:27.259000
+2017,Singapore,2017-09-17 12:00:00,VAN,Stoffel Vandoorne,McLaren,7.0,6.0,9.0,Finished,0 days 00:00:30.388000
+2017,Singapore,2017-09-17 12:00:00,STR,Lance Stroll,Williams,8.0,4.0,18.0,Finished,0 days 00:00:41.696000
+2017,Singapore,2017-09-17 12:00:00,GRO,Romain Grosjean,Haas F1 Team,9.0,2.0,15.0,Finished,0 days 00:00:43.282000
+2017,Singapore,2017-09-17 12:00:00,OCO,Esteban Ocon,Force India,10.0,1.0,14.0,Finished,0 days 00:00:44.795000
+2017,Singapore,2017-09-17 12:00:00,MAS,Felipe Massa,Williams,11.0,0.0,17.0,Finished,0 days 00:00:46.536000
+2017,Singapore,2017-09-17 12:00:00,WEH,Pascal Wehrlein,Sauber,12.0,0.0,19.0,+2 Laps,
+2017,Singapore,2017-09-17 12:00:00,MAG,Kevin Magnussen,Haas F1 Team,13.0,0.0,16.0,Engine,
+2017,Singapore,2017-09-17 12:00:00,HUL,Nico Hülkenberg,Renault,14.0,0.0,7.0,Engine,
+2017,Singapore,2017-09-17 12:00:00,ERI,Marcus Ericsson,Sauber,15.0,0.0,20.0,Accident,
+2017,Singapore,2017-09-17 12:00:00,KVY,Daniil Kvyat,Toro Rosso,16.0,0.0,13.0,Accident,
+2017,Singapore,2017-09-17 12:00:00,ALO,Fernando Alonso,McLaren,17.0,0.0,8.0,Collision damage,
+2017,Singapore,2017-09-17 12:00:00,VET,Sebastian Vettel,Ferrari,18.0,0.0,1.0,Accident,
+2017,Singapore,2017-09-17 12:00:00,VER,Max Verstappen,Red Bull,19.0,0.0,2.0,Accident,
+2017,Singapore,2017-09-17 12:00:00,RAI,Kimi Räikkönen,Ferrari,20.0,0.0,4.0,Accident,
+2018,Singapore,2018-09-16 12:10:00,HAM,Lewis Hamilton,Mercedes,1.0,25.0,1.0,Finished,0 days 01:51:11.611000
+2018,Singapore,2018-09-16 12:10:00,VER,Max Verstappen,Red Bull Racing,2.0,18.0,2.0,Finished,0 days 00:00:08.961000
+2018,Singapore,2018-09-16 12:10:00,VET,Sebastian Vettel,Ferrari,3.0,15.0,3.0,Finished,0 days 00:00:39.984000
+2018,Singapore,2018-09-16 12:10:00,BOT,Valtteri Bottas,Mercedes,4.0,12.0,4.0,Finished,0 days 00:00:51.930000
+2018,Singapore,2018-09-16 12:10:00,RAI,Kimi Räikkönen,Ferrari,5.0,10.0,5.0,Finished,0 days 00:00:53.001000
+2018,Singapore,2018-09-16 12:10:00,RIC,Daniel Ricciardo,Red Bull Racing,6.0,8.0,6.0,Finished,0 days 00:00:53.982000
+2018,Singapore,2018-09-16 12:10:00,ALO,Fernando Alonso,McLaren,7.0,6.0,11.0,Finished,0 days 00:01:43.001000
+2018,Singapore,2018-09-16 12:10:00,SAI,Carlos Sainz,Renault,8.0,4.0,12.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,LEC,Charles Leclerc,Sauber,9.0,2.0,13.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,HUL,Nico Hulkenberg,Renault,10.0,1.0,10.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,ERI,Marcus Ericsson,Sauber,11.0,0.0,14.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,VAN,Stoffel Vandoorne,McLaren,12.0,0.0,18.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,GAS,Pierre Gasly,Toro Rosso,13.0,0.0,15.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,STR,Lance Stroll,Williams,14.0,0.0,20.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,GRO,Romain Grosjean,Haas F1 Team,15.0,0.0,8.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,PER,Sergio Perez,Racing Point,16.0,0.0,7.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,HAR,Brendon Hartley,Toro Rosso,17.0,0.0,17.0,+1 Lap,
+2018,Singapore,2018-09-16 12:10:00,MAG,Kevin Magnussen,Haas F1 Team,18.0,0.0,16.0,+2 Laps,
+2018,Singapore,2018-09-16 12:10:00,SIR,Sergey Sirotkin,Williams,19.0,0.0,19.0,+2 Laps,
+2018,Singapore,2018-09-16 12:10:00,OCO,Esteban Ocon,Racing Point,20.0,0.0,9.0,Collision,
+2019,Singapore,2019-09-22 12:10:00,VET,Sebastian Vettel,Ferrari,1.0,25.0,3.0,Finished,0 days 01:58:33.667000
+2019,Singapore,2019-09-22 12:10:00,LEC,Charles Leclerc,Ferrari,2.0,18.0,1.0,Finished,0 days 00:00:02.641000
+2019,Singapore,2019-09-22 12:10:00,VER,Max Verstappen,Red Bull Racing,3.0,15.0,4.0,Finished,0 days 00:00:03.821000
+2019,Singapore,2019-09-22 12:10:00,HAM,Lewis Hamilton,Mercedes,4.0,12.0,2.0,Finished,0 days 00:00:04.608000
+2019,Singapore,2019-09-22 12:10:00,BOT,Valtteri Bottas,Mercedes,5.0,10.0,5.0,Finished,0 days 00:00:06.119000
+2019,Singapore,2019-09-22 12:10:00,ALB,Alexander Albon,Red Bull Racing,6.0,8.0,6.0,Finished,0 days 00:00:11.663000
+2019,Singapore,2019-09-22 12:10:00,NOR,Lando Norris,McLaren,7.0,6.0,9.0,Finished,0 days 00:00:14.769000
+2019,Singapore,2019-09-22 12:10:00,GAS,Pierre Gasly,Toro Rosso,8.0,4.0,11.0,Finished,0 days 00:00:15.547000
+2019,Singapore,2019-09-22 12:10:00,HUL,Nico Hulkenberg,Renault,9.0,2.0,8.0,Finished,0 days 00:00:16.718000
+2019,Singapore,2019-09-22 12:10:00,GIO,Antonio Giovinazzi,Alfa Romeo Racing,10.0,1.0,10.0,Finished,0 days 00:00:27.855000
+2019,Singapore,2019-09-22 12:10:00,GRO,Romain Grosjean,Haas F1 Team,11.0,0.0,17.0,Finished,0 days 00:00:35.436000
+2019,Singapore,2019-09-22 12:10:00,SAI,Carlos Sainz,McLaren,12.0,0.0,7.0,Finished,0 days 00:00:35.974000
+2019,Singapore,2019-09-22 12:10:00,STR,Lance Stroll,Racing Point,13.0,0.0,16.0,Finished,0 days 00:00:36.419000
+2019,Singapore,2019-09-22 12:10:00,RIC,Daniel Ricciardo,Renault,14.0,0.0,20.0,Finished,0 days 00:00:37.660000
+2019,Singapore,2019-09-22 12:10:00,KVY,Daniil Kvyat,Toro Rosso,15.0,0.0,14.0,Finished,0 days 00:00:38.178000
+2019,Singapore,2019-09-22 12:10:00,KUB,Robert Kubica,Williams,16.0,0.0,19.0,Finished,0 days 00:00:47.024000
+2019,Singapore,2019-09-22 12:10:00,MAG,Kevin Magnussen,Haas F1 Team,17.0,0.0,13.0,Finished,0 days 00:01:26.522000
+2019,Singapore,2019-09-22 12:10:00,RAI,Kimi Räikkönen,Alfa Romeo Racing,18.0,0.0,12.0,Collision,
+2019,Singapore,2019-09-22 12:10:00,PER,Sergio Perez,Racing Point,19.0,0.0,15.0,Engine,
+2019,Singapore,2019-09-22 12:10:00,RUS,George Russell,Williams,20.0,0.0,18.0,Collision,
+2020,Singapore,2020-07-19 13:10:00,HAM,Lewis Hamilton,Mercedes,1.0,26.0,1.0,Finished,0 days 01:36:12.473000
+2020,Singapore,2020-07-19 13:10:00,VER,Max Verstappen,Red Bull Racing,2.0,18.0,7.0,Finished,0 days 00:00:08.702000
+2020,Singapore,2020-07-19 13:10:00,BOT,Valtteri Bottas,Mercedes,3.0,15.0,2.0,Finished,0 days 00:00:09.452000
+2020,Singapore,2020-07-19 13:10:00,STR,Lance Stroll,Racing Point,4.0,12.0,3.0,Finished,0 days 00:00:57.579000
+2020,Singapore,2020-07-19 13:10:00,ALB,Alexander Albon,Red Bull Racing,5.0,10.0,13.0,Finished,0 days 00:01:18.316000
+2020,Singapore,2020-07-19 13:10:00,VET,Sebastian Vettel,Ferrari,6.0,8.0,5.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,PER,Sergio Perez,Racing Point,7.0,6.0,4.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,RIC,Daniel Ricciardo,Renault,8.0,4.0,11.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,SAI,Carlos Sainz,McLaren,9.0,2.0,9.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,MAG,Kevin Magnussen,Haas F1 Team,10.0,1.0,0.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,LEC,Charles Leclerc,Ferrari,11.0,0.0,6.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,KVY,Daniil Kvyat,AlphaTauri,12.0,0.0,17.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,NOR,Lando Norris,McLaren,13.0,0.0,8.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,OCO,Esteban Ocon,Renault,14.0,0.0,14.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,RAI,Kimi Räikkönen,Alfa Romeo Racing,15.0,0.0,20.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,GRO,Romain Grosjean,Haas F1 Team,16.0,0.0,0.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17.0,0.0,19.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,RUS,George Russell,Williams,18.0,0.0,12.0,+1 Lap,
+2020,Singapore,2020-07-19 13:10:00,LAT,Nicholas Latifi,Williams,19.0,0.0,15.0,+5 Laps,
+2020,Singapore,2020-07-19 13:10:00,GAS,Pierre Gasly,AlphaTauri,20.0,0.0,10.0,Engine,
+2021,Singapore,2021-08-01 13:00:00,OCO,Esteban Ocon,Alpine,1.0,25.0,8.0,Finished,0 days 02:04:43.199000
+2021,Singapore,2021-08-01 13:00:00,HAM,Lewis Hamilton,Mercedes,2.0,18.0,1.0,Finished,0 days 00:00:02.736000
+2021,Singapore,2021-08-01 13:00:00,SAI,Carlos Sainz,Ferrari,3.0,15.0,15.0,Finished,0 days 00:00:15.018000
+2021,Singapore,2021-08-01 13:00:00,ALO,Fernando Alonso,Alpine,4.0,12.0,9.0,Finished,0 days 00:00:15.651000
+2021,Singapore,2021-08-01 13:00:00,GAS,Pierre Gasly,AlphaTauri,5.0,11.0,5.0,Finished,0 days 00:01:03.614000
+2021,Singapore,2021-08-01 13:00:00,TSU,Yuki Tsunoda,AlphaTauri,6.0,8.0,16.0,Finished,0 days 00:01:15.803000
+2021,Singapore,2021-08-01 13:00:00,LAT,Nicholas Latifi,Williams,7.0,6.0,18.0,Finished,0 days 00:01:17.910000
+2021,Singapore,2021-08-01 13:00:00,RUS,George Russell,Williams,8.0,4.0,17.0,Finished,0 days 00:01:19.094000
+2021,Singapore,2021-08-01 13:00:00,VER,Max Verstappen,Red Bull Racing,9.0,2.0,3.0,Finished,0 days 00:01:20.244000
+2021,Singapore,2021-08-01 13:00:00,RAI,Kimi Räikkönen,Alfa Romeo Racing,10.0,1.0,13.0,+1 Lap,
+2021,Singapore,2021-08-01 13:00:00,RIC,Daniel Ricciardo,McLaren,11.0,0.0,11.0,+1 Lap,
+2021,Singapore,2021-08-01 13:00:00,MSC,Mick Schumacher,Haas F1 Team,12.0,0.0,20.0,+1 Lap,
+2021,Singapore,2021-08-01 13:00:00,GIO,Antonio Giovinazzi,Alfa Romeo Racing,13.0,0.0,0.0,+1 Lap,
+2021,Singapore,2021-08-01 13:00:00,MAZ,Nikita Mazepin,Haas F1 Team,14.0,0.0,19.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,NOR,Lando Norris,McLaren,15.0,0.0,6.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,BOT,Valtteri Bottas,Mercedes,16.0,0.0,2.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,PER,Sergio Perez,Red Bull Racing,17.0,0.0,4.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,LEC,Charles Leclerc,Ferrari,18.0,0.0,7.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,STR,Lance Stroll,Aston Martin,19.0,0.0,12.0,Collision,
+2021,Singapore,2021-08-01 13:00:00,VET,Sebastian Vettel,Aston Martin,20.0,0.0,10.0,Disqualified,
+2022,Singapore,2022-10-02 12:00:00,PER,Sergio Perez,Red Bull Racing,1.0,25.0,2.0,Finished,0 days 02:02:20.238000
+2022,Singapore,2022-10-02 12:00:00,LEC,Charles Leclerc,Ferrari,2.0,18.0,1.0,Finished,0 days 00:00:02.595000
+2022,Singapore,2022-10-02 12:00:00,SAI,Carlos Sainz,Ferrari,3.0,15.0,4.0,Finished,0 days 00:00:10.305000
+2022,Singapore,2022-10-02 12:00:00,NOR,Lando Norris,McLaren,4.0,12.0,6.0,Finished,0 days 00:00:21.133000
+2022,Singapore,2022-10-02 12:00:00,RIC,Daniel Ricciardo,McLaren,5.0,10.0,16.0,Finished,0 days 00:00:53.282000
+2022,Singapore,2022-10-02 12:00:00,STR,Lance Stroll,Aston Martin,6.0,8.0,11.0,Finished,0 days 00:00:56.330000
+2022,Singapore,2022-10-02 12:00:00,VER,Max Verstappen,Red Bull Racing,7.0,6.0,8.0,Finished,0 days 00:00:58.825000
+2022,Singapore,2022-10-02 12:00:00,VET,Sebastian Vettel,Aston Martin,8.0,4.0,13.0,Finished,0 days 00:01:00.032000
+2022,Singapore,2022-10-02 12:00:00,HAM,Lewis Hamilton,Mercedes,9.0,2.0,3.0,Finished,0 days 00:01:01.515000
+2022,Singapore,2022-10-02 12:00:00,GAS,Pierre Gasly,AlphaTauri,10.0,1.0,7.0,Finished,0 days 00:01:09.576000
+2022,Singapore,2022-10-02 12:00:00,BOT,Valtteri Bottas,Alfa Romeo,11.0,0.0,15.0,Finished,0 days 00:01:28.844000
+2022,Singapore,2022-10-02 12:00:00,MAG,Kevin Magnussen,Haas F1 Team,12.0,0.0,9.0,Finished,0 days 00:01:32.610000
+2022,Singapore,2022-10-02 12:00:00,MSC,Mick Schumacher,Haas F1 Team,13.0,0.0,12.0,+1 Lap,
+2022,Singapore,2022-10-02 12:00:00,RUS,George Russell,Mercedes,14.0,0.0,0.0,+2 Laps,
+2022,Singapore,2022-10-02 12:00:00,TSU,Yuki Tsunoda,AlphaTauri,15.0,0.0,10.0,Accident,
+2022,Singapore,2022-10-02 12:00:00,OCO,Esteban Ocon,Alpine,16.0,0.0,17.0,Engine,
+2022,Singapore,2022-10-02 12:00:00,ALB,Alexander Albon,Williams,17.0,0.0,18.0,Collision damage,
+2022,Singapore,2022-10-02 12:00:00,ALO,Fernando Alonso,Alpine,18.0,0.0,5.0,Engine,
+2022,Singapore,2022-10-02 12:00:00,LAT,Nicholas Latifi,Williams,19.0,0.0,19.0,Collision damage,
+2022,Singapore,2022-10-02 12:00:00,ZHO,Guanyu Zhou,Alfa Romeo,20.0,0.0,14.0,Collision,
+2023,Singapore,2023-09-17 12:00:00,SAI,Carlos Sainz,Ferrari,1.0,25.0,1.0,Finished,0 days 01:46:37.418000
+2023,Singapore,2023-09-17 12:00:00,NOR,Lando Norris,McLaren,2.0,18.0,4.0,Finished,0 days 00:00:00.812000
+2023,Singapore,2023-09-17 12:00:00,HAM,Lewis Hamilton,Mercedes,3.0,16.0,5.0,Finished,0 days 00:00:01.269000
+2023,Singapore,2023-09-17 12:00:00,LEC,Charles Leclerc,Ferrari,4.0,12.0,3.0,Finished,0 days 00:00:21.177000
+2023,Singapore,2023-09-17 12:00:00,VER,Max Verstappen,Red Bull Racing,5.0,10.0,11.0,Finished,0 days 00:00:21.441000
+2023,Singapore,2023-09-17 12:00:00,GAS,Pierre Gasly,Alpine,6.0,8.0,12.0,Finished,0 days 00:00:38.441000
+2023,Singapore,2023-09-17 12:00:00,PIA,Oscar Piastri,McLaren,7.0,6.0,17.0,Finished,0 days 00:00:41.479000
+2023,Singapore,2023-09-17 12:00:00,PER,Sergio Perez,Red Bull Racing,8.0,4.0,13.0,Finished,0 days 00:00:59.534000
+2023,Singapore,2023-09-17 12:00:00,LAW,Liam Lawson,AlphaTauri,9.0,2.0,10.0,Finished,0 days 00:01:05.918000
+2023,Singapore,2023-09-17 12:00:00,MAG,Kevin Magnussen,Haas F1 Team,10.0,1.0,6.0,Finished,0 days 00:01:12.116000
+2023,Singapore,2023-09-17 12:00:00,ALB,Alexander Albon,Williams,11.0,0.0,14.0,Finished,0 days 00:01:13.417000
+2023,Singapore,2023-09-17 12:00:00,ZHO,Guanyu Zhou,Alfa Romeo,12.0,0.0,19.0,Finished,0 days 00:01:23.649000
+2023,Singapore,2023-09-17 12:00:00,HUL,Nico Hulkenberg,Haas F1 Team,13.0,0.0,9.0,Finished,0 days 00:01:26.201000
+2023,Singapore,2023-09-17 12:00:00,SAR,Logan Sargeant,Williams,14.0,0.0,18.0,Finished,0 days 00:01:26.889000
+2023,Singapore,2023-09-17 12:00:00,ALO,Fernando Alonso,Aston Martin,15.0,0.0,7.0,Finished,0 days 00:01:27.603000
+2023,Singapore,2023-09-17 12:00:00,RUS,George Russell,Mercedes,16.0,0.0,2.0,Finished,
+2023,Singapore,2023-09-17 12:00:00,BOT,Valtteri Bottas,Alfa Romeo,17.0,0.0,16.0,Retired,
+2023,Singapore,2023-09-17 12:00:00,OCO,Esteban Ocon,Alpine,18.0,0.0,8.0,Retired,
+2023,Singapore,2023-09-17 12:00:00,TSU,Yuki Tsunoda,AlphaTauri,19.0,0.0,15.0,Retired,
+2023,Singapore,2023-09-17 12:00:00,STR,Lance Stroll,Aston Martin,,0.0,,Withdrew,
+2024,Singapore,2024-09-22 12:00:00,NOR,Lando Norris,McLaren,1.0,25.0,1.0,Finished,0 days 01:40:52.571000
+2024,Singapore,2024-09-22 12:00:00,VER,Max Verstappen,Red Bull Racing,2.0,18.0,2.0,Finished,0 days 00:00:20.945000
+2024,Singapore,2024-09-22 12:00:00,PIA,Oscar Piastri,McLaren,3.0,15.0,5.0,Finished,0 days 00:00:41.823000
+2024,Singapore,2024-09-22 12:00:00,RUS,George Russell,Mercedes,4.0,12.0,4.0,Finished,0 days 00:01:01.040000
+2024,Singapore,2024-09-22 12:00:00,LEC,Charles Leclerc,Ferrari,5.0,10.0,9.0,Finished,0 days 00:01:02.430000
+2024,Singapore,2024-09-22 12:00:00,HAM,Lewis Hamilton,Mercedes,6.0,8.0,3.0,Finished,0 days 00:01:25.248000
+2024,Singapore,2024-09-22 12:00:00,SAI,Carlos Sainz,Ferrari,7.0,6.0,10.0,Finished,0 days 00:01:36.039000
+2024,Singapore,2024-09-22 12:00:00,ALO,Fernando Alonso,Aston Martin,8.0,4.0,7.0,Lapped,0 days 00:00:00.873000
+2024,Singapore,2024-09-22 12:00:00,HUL,Nico Hulkenberg,Haas F1 Team,9.0,2.0,6.0,Lapped,0 days 00:00:03.140000
+2024,Singapore,2024-09-22 12:00:00,PER,Sergio Perez,Red Bull Racing,10.0,1.0,13.0,Lapped,0 days 00:00:04.624000
+2024,Singapore,2024-09-22 12:00:00,COL,Franco Colapinto,Williams,11.0,0.0,12.0,Lapped,0 days 00:00:06.284000
+2024,Singapore,2024-09-22 12:00:00,TSU,Yuki Tsunoda,RB,12.0,0.0,8.0,Lapped,0 days 00:00:08.792000
+2024,Singapore,2024-09-22 12:00:00,OCO,Esteban Ocon,Alpine,13.0,0.0,15.0,Lapped,0 days 00:00:44.005000
+2024,Singapore,2024-09-22 12:00:00,STR,Lance Stroll,Aston Martin,14.0,0.0,17.0,Lapped,0 days 00:00:47.571000
+2024,Singapore,2024-09-22 12:00:00,ZHO,Guanyu Zhou,Kick Sauber,15.0,0.0,20.0,Lapped,0 days 00:00:57.220000
+2024,Singapore,2024-09-22 12:00:00,BOT,Valtteri Bottas,Kick Sauber,16.0,0.0,19.0,Lapped,0 days 00:00:57.829000
+2024,Singapore,2024-09-22 12:00:00,GAS,Pierre Gasly,Alpine,17.0,0.0,18.0,Lapped,0 days 00:00:59.059000
+2024,Singapore,2024-09-22 12:00:00,RIC,Daniel Ricciardo,RB,18.0,0.0,16.0,Lapped,0 days 00:01:29.796000
+2024,Singapore,2024-09-22 12:00:00,MAG,Kevin Magnussen,Haas F1 Team,19.0,0.0,14.0,Finished,
+2024,Singapore,2024-09-22 12:00:00,ALB,Alexander Albon,Williams,20.0,0.0,11.0,Retired,

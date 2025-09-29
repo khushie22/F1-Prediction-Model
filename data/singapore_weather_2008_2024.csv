@@ -1,0 +1,18 @@
+Time,AirTemp,Humidity,Pressure,Rainfall,TrackTemp,WindDirection,WindSpeed,Year,Race,Date,Temperature_Min_C,Temperature_Max_C,Temperature_Avg_C,Humidity_Percent,Precipitation_mm,Wind_Speed_kmh,Wind_Direction_deg,Pressure_hPa,Weather_Condition,Data_Source
+0 days 00:00:03.989000,29.9,64.1,1007.1,False,34.2,168.0,1.8,2018,Singapore,2018-09-16 12:10:00,,,,,,,,,,
+0 days 00:00:11.591000,30.0,70.7,1009.7,False,37.3,176.0,2.9,2019,Singapore,2019-09-22 12:10:00,,,,,,,,,,
+0 days 00:00:05.600000,20.4,79.5,986.6,True,26.7,114.0,1.5,2020,Singapore,2020-07-19 13:10:00,,,,,,,,,,
+0 days 00:00:31.224000,29.1,55.5,978.6,False,47.0,82.0,0.9,2021,Singapore,2021-08-01 13:00:00,,,,,,,,,,
+0 days 00:00:18.363000,25.2,90.0,1007.7,True,24.5,21.0,0.8,2022,Singapore,2022-10-02 12:00:00,,,,,,,,,,
+0 days 00:00:23.518000,30.0,68.0,1007.9,False,38.3,106.0,0.8,2023,Singapore,2023-09-17 12:00:00,,,,,,,,,,
+0 days 00:00:50.446000,31.0,74.0,1006.9,False,37.6,0.0,0.6,2024,Singapore,2024-09-22 12:00:00,,,,,,,,,,
+,,,,,,,,2008,Singapore,2008-09-22,25.4,30.7,28.0,71.4,5.8,2.6,109.0,1007.4,Light Rain,Synthetic
+,,,,,,,,2009,Singapore,2009-09-22,26.9,29.1,28.0,69.3,3.3,1.0,317.0,1012.7,Light Rain,Synthetic
+,,,,,,,,2010,Singapore,2010-09-22,25.8,30.0,27.9,87.3,3.3,3.9,84.0,1012.8,Light Rain,Synthetic
+,,,,,,,,2011,Singapore,2011-09-22,26.1,32.6,29.4,91.0,4.7,11.3,199.0,1008.6,Light Rain,Synthetic
+,,,,,,,,2012,Singapore,2012-09-22,25.6,29.7,27.7,76.0,4.9,25.0,148.0,997.4,Light Rain,Synthetic
+,,,,,,,,2013,Singapore,2013-09-22,26.6,31.2,28.9,86.5,5.0,2.2,252.0,997.8,Light Rain,Synthetic
+,,,,,,,,2014,Singapore,2014-09-22,24.8,29.2,27.0,95.0,5.7,1.5,136.0,1005.0,Light Rain,Synthetic
+,,,,,,,,2015,Singapore,2015-09-22,26.3,34.4,30.3,78.7,14.5,13.8,23.0,1023.0,Rain,Synthetic
+,,,,,,,,2016,Singapore,2016-09-22,26.6,32.0,29.3,87.0,3.1,8.2,81.0,1021.3,Light Rain,Synthetic
+,,,,,,,,2017,Singapore,2017-09-22,24.0,30.7,27.3,82.0,0.8,2.1,82.0,1018.7,Clear,Synthetic

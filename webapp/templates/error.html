@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Error - F1 Singapore GP Predictor{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card border-danger">
+            <div class="card-header bg-danger text-white">
+                <h3><i class="fas fa-exclamation-triangle"></i> Error</h3>
+            </div>
+            <div class="card-body">
+                <p class="lead">{{ error }}</p>
+                <hr>
+                <h5>What you can do:</h5>
+                <ol>
+                    <li>Make sure you've run the feature engineering notebook first</li>
+                    <li>Check that all required data files are present in the data/features directory</li>
+                    <li>Verify that the model has been trained successfully</li>
+                    <li>Try refreshing the page</li>
+                </ol>
+                <a href="/" class="btn btn-primary">
+                    <i class="fas fa-home"></i> Back to Home
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

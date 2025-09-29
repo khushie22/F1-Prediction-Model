@@ -1,0 +1,21 @@
+## 📁 Project Structure
+
+```
+f1-singapore-predictor/
+├── data/                          # Data storage
+│   ├── features/                  # Generated features and models
+│   ├── singapore_gp_results_*.csv # Race results
+│   └── singapore_weather_*.csv    # Weather data
+├── notebooks/                     # Program code
+|   ├── feature_engineering.ipynb  # Main ML pipeline
+│   ├── data_collection.ipynb      # Data collection
+├── src/                           # Source code
+│   ├── ergast_data_collector.py   # Historical data API
+│   └── weather_data_collector.py  # Weather data collection
+├── webapp/                        # Flask web application
+│   ├── app.py                     # Main Flask app
+│   └── templates/                 # HTML templates
+├── f1_cache/                      # FastF1 cache
+├── requirements.txt               # Python dependencies
+└── run_webapp.py                  # Web app launcher
+```

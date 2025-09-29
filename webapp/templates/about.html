@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+
+{% block title %}About - F1 Singapore GP Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h2><i class="fas fa-info-circle f1-red"></i> About F1 Singapore GP Predictor</h2>
+            </div>
+            <div class="card-body">
+                <p class="lead">This application uses machine learning to predict the winner of the 2025 Singapore Grand Prix based on comprehensive historical data analysis.</p>
+                
+                <h4><i class="fas fa-database"></i> Data Sources</h4>
+                <ul>
+                    <li><strong>Historical Race Results (2008-2024):</strong> Singapore GP results from FastF1 and Ergast API</li>
+                    <li><strong>Driver Performance:</strong> Championship standings, consistency metrics, and track-specific performance</li>
+                    <li><strong>Team Performance:</strong> Constructor standings, reliability data, and car performance trends</li>
+                    <li><strong>Weather Data:</strong> Temperature, humidity, precipitation, and weather conditions</li>
+                    <li><strong>Track Characteristics:</strong> Singapore circuit specifications and historical race patterns</li>
+                </ul>
+
+                <h4><i class="fas fa-brain"></i> Machine Learning Approach</h4>
+                <p>Our prediction model has tested multiple algorithms and selected the best performing one which is:</p>
+                <ul>
+                    <li><strong>XGBoost:</strong> Gradient boosting for complex pattern recognition</li>
+                </ul>
+
+                <h4><i class="fas fa-chart-line"></i> Features Used</h4>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Driver Features</h5>
+                        <ul>
+                            <li>Singapore GP history and success rate</li>
+                            <li>Recent form (last 5 races)</li>
+                            <li>Career statistics and consistency</li>
+                            <li>Experience and age factors</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>Team Features</h5>
+                        <ul>
+                            <li>Singapore GP team performance</li>
+                            <li>Recent team form and reliability</li>
+                            <li>Car performance characteristics</li>
+                            <li>Team championship standings</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Track Features</h5>
+                        <ul>
+                            <li>Singapore circuit characteristics</li>
+                            <li>Overtaking difficulty</li>
+                            <li>Tire degradation patterns</li>
+                            <li>Safety car probability</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>Weather Features</h5>
+                        <ul>
+                            <li>Temperature and humidity effects</li>
+                            <li>Rain probability and impact</li>
+                            <li>Weather-related performance patterns</li>
+                            <li>Historical weather impact</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h4><i class="fas fa-cogs"></i> Model Performance</h4>
+                <p>The model is evaluated using multiple metrics:</p>
+                <ul>
+                    <li><strong>Accuracy:</strong> Overall prediction correctness</li>
+                    <li><strong>Precision:</strong> True positive rate for winner predictions</li>
+                    <li><strong>Recall:</strong> Sensitivity to actual winners</li>
+                    <li><strong>F1-Score:</strong> Harmonic mean of precision and recall</li>
+                    <li><strong>AUC:</strong> Area under the ROC curve</li>
+                </ul>
+
+                <h4><i class="fas fa-exclamation-triangle"></i> Limitations</h4>
+                <ul>
+                    <li>Predictions are based on historical data and may not account for unexpected events</li>
+                    <li>Driver transfers and team changes between seasons may affect accuracy</li>
+                    <li>Weather conditions are estimated based on historical averages</li>
+                    <li>Technical issues, crashes, or other race incidents are not predictable</li>
+                </ul>
+
+                <h4><i class="fas fa-code"></i> Technical Details</h4>
+                <p><strong>Built with:</strong> Python, Flask, scikit-learn, pandas, FastF1, Bootstrap</p>
+                <p><strong>Data Collection:</strong> Automated via APIs with caching for performance</p>
+                <p><strong>Model Training:</strong> Cross-validation and hyperparameter optimization</p>
+                <p><strong>Deployment:</strong> Local Flask application with responsive web interface</p>
+
+                <div class="alert alert-warning">
+                    <h5><i class="fas fa-info-circle"></i> Disclaimer</h5>
+                    <p class="mb-0">This is a machine learning experiment for educational purposes. Predictions should not be used for betting or gambling. F1 is unpredictable, and many factors can influence race outcomes that are not captured in historical data.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,2 @@
+Model,F1_Score,Predicted_Winner,Winner_Probability,Top_Team,Total_Drivers,Prediction_Date
+XGBoost,0.5,Lando Norris,0.8177343,McLaren,20,2025-09-29 11:28:34

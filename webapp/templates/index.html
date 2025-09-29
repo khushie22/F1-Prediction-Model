@@ -1,0 +1,159 @@
+{% extends "base.html" %}
+
+{% block title %}F1 Singapore GP 2025 Predictions{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="alert alert-info">
+            <h4><i class="fas fa-info-circle"></i> 2025 Singapore Grand Prix Predictions</h4>
+            <p class="mb-0">Predictions based on historical data from 2008-2024 using {{ summary.Model }} model (F1 Score: {{ "%.3f"|format(summary.F1_Score) }})</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Main Predictions -->
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header">
+                <h3><i class="fas fa-trophy f1-red"></i> Top 10 Most Likely Winners</h3>
+            </div>
+            <div class="card-body">
+                {% for idx, driver in predictions.iterrows() %}
+                <div class="card prediction-card mb-3">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-md-1">
+                                <h4 class="text-center f1-red">#{{ loop.index }}</h4>
+                            </div>
+                            <div class="col-md-3">
+                                <h5 class="mb-1">{{ driver.FullName }}</h5>
+                                <small class="text-muted">{{ driver.Team }}</small>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="progress mb-2">
+                                    <div class="progress-bar f1-bg" role="progressbar" 
+                                         data-width="{{ (driver.Win_Probability * 100) | round(1) }}"
+                                         aria-valuenow="{{ (driver.Win_Probability * 100)|round(1) }}" 
+                                         aria-valuemin="0" aria-valuemax="100">
+                                    </div>
+                                </div>
+                                <small class="text-muted">{{ "%.1f"|format(driver.Win_Probability * 100) }}% win probability</small>
+                            </div>
+                            <div class="col-md-2">
+                                {% if driver.Predicted_Winner == 1 %}
+                                    <span class="badge bg-success">Predicted Winner</span>
+                                {% else %}
+                                    <span class="badge bg-secondary">Contender</span>
+                                {% endif %}
+                            </div>
+                            <div class="col-md-2">
+                                <a href="/driver/{{ driver.Driver }}" class="btn btn-outline-primary btn-sm">
+                                    <i class="fas fa-user"></i> Details
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="col-lg-4">
+        <!-- Podium Predictions -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h4><i class="fas fa-medal f1-red"></i> Podium Predictions</h4>
+            </div>
+            <div class="card-body">
+                <div class="text-center mb-3">
+                    <div class="podium">
+                        <div class="podium-place" style="background: linear-gradient(45deg, #FFD700, #FFA500);">
+                            <h5>🥇 1st</h5>
+                            <strong>{{ predictions.iloc[0].FullName }}</strong><br>
+                            <small>{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</small>
+                        </div>
+                        <div class="podium-place" style="background: linear-gradient(45deg, #C0C0C0, #A0A0A0);">
+                            <h5>🥈 2nd</h5>
+                            <strong>{{ predictions.iloc[1].FullName }}</strong><br>
+                            <small>{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</small>
+                        </div>
+                        <div class="podium-place" style="background: linear-gradient(45deg, #CD7F32, #B8860B);">
+                            <h5>🥉 3rd</h5>
+                            <strong>{{ predictions.iloc[2].FullName }}</strong><br>
+                            <small>{{ "%.1f"|format(predictions.iloc[2].Win_Probability * 100) }}%</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Analysis -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h4><i class="fas fa-users f1-red"></i> Team Analysis</h4>
+            </div>
+            <div class="card-body">
+                {% for team, data in team_analysis.head(5).iterrows() %}
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span><strong>{{ team }}</strong></span>
+                    <span class="badge f1-bg">{{ "%.1f"|format(data.Total_Win_Probability * 100) }}%</span>
+                </div>
+                <div class="progress mb-3" style="height: 8px;">
+                    <div class="progress-bar f1-bg" role="progressbar" 
+                         data-width=" {{ (data.Total_Win_Probability * 100)|round(1) }}%">
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Model Info -->
+        <div class="card">
+            <div class="card-header">
+                <h4><i class="fas fa-cogs f1-red"></i> Model Information</h4>
+            </div>
+            <div class="card-body">
+                <p><strong>Model:</strong> {{ summary.Model }}</p>
+                <p><strong>F1 Score:</strong> {{ "%.3f"|format(summary.F1_Score) }}</p>
+                <p><strong>Prediction Date:</strong> {{ summary.Prediction_Date }}</p>
+                <p><strong>Total Drivers:</strong> {{ summary.Total_Drivers }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+
+<style>
+.podium {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 10px;
+    height: 120px;
+}
+
+.podium-place {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.podium-place:nth-child(1) { height: 100px; }
+.podium-place:nth-child(2) { height: 80px; }
+.podium-place:nth-child(3) { height: 60px; }
+</style>
+{% endblock %}

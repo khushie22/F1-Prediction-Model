@@ -1,0 +1,21 @@
+Driver,Team,FullName,Win_Probability,Predicted_Winner
+NOR,McLaren,Lando Norris,0.8177343,1
+SAI,Ferrari,Carlos Sainz,0.157249,0
+PIA,McLaren,Oscar Piastri,0.071638264,0
+LEC,Ferrari,Charles Leclerc,0.032079365,0
+HUL,Haas,Nico Hulkenberg,0.031745218,0
+VER,Red Bull Racing,Max Verstappen,0.018642431,0
+MAG,Haas,Kevin Magnussen,0.017416304,0
+PER,Red Bull Racing,Sergio Perez,0.014057578,0
+HAM,Mercedes,Lewis Hamilton,0.01250732,0
+ALO,Aston Martin,Fernando Alonso,0.0053532934,0
+TSU,RB,Yuki Tsunoda,0.002861677,0
+RUS,Mercedes,George Russell,0.0027366844,0
+STR,Aston Martin,Lance Stroll,0.0018576116,0
+RIC,RB,Daniel Ricciardo,0.0016847389,0
+GAS,Alpine,Pierre Gasly,0.0007347896,0
+ZHO,Sauber,Zhou Guanyu,0.0006005484,0
+SAR,Williams,Logan Sargeant,0.0005660637,0
+OCO,Alpine,Esteban Ocon,0.00033031267,0
+BOT,Sauber,Valtteri Bottas,0.000275733,0
+ALB,Williams,Alexander Albon,0.00026264216,0

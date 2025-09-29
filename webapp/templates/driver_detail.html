@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+
+{% block title %}{{ driver.FullName }} - F1 Singapore GP Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h2><i class="fas fa-user f1-red"></i> {{ driver.FullName }} ({{ driver.Driver }})</h2>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Driver Information</h4>
+                        <table class="table table-striped">
+                            <tr>
+                                <td><strong>Full Name:</strong></td>
+                                <td>{{ driver.FullName }}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Driver Code:</strong></td>
+                                <td>{{ driver.Driver }}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Team:</strong></td>
+                                <td>{{ driver.Team }}</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Win Probability:</strong></td>
+                                <td>
+                                    <div class="progress">
+                                        <div class="progress-bar f1-bg" role="progressbar" 
+                                             style="width: {{ (driver.Win_Probability * 100)|round(1) }}%"
+                                             aria-valuenow="{{ (driver.Win_Probability * 100)|round(1) }}" 
+                                             aria-valuemin="0" aria-valuemax="100">
+                                            {{ "%.1f"|format(driver.Win_Probability * 100) }}%
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><strong>Predicted Winner:</strong></td>
+                                <td>
+                                    {% if driver.Predicted_Winner == 1 %}
+                                        <span class="badge bg-success">Yes</span>
+                                    {% else %}
+                                        <span class="badge bg-secondary">No</span>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <h4>Prediction Analysis</h4>
+                        <div class="alert alert-info">
+                            <h5>Win Probability: {{ "%.1f"|format(driver.Win_Probability * 100) }}%</h5>
+                            <p class="mb-0">
+                                {% if driver.Win_Probability > 0.2 %}
+                                    This driver has a <strong>high</strong> probability of winning the 2025 Singapore GP.
+                                {% elif driver.Win_Probability > 0.1 %}
+                                    This driver has a <strong>moderate</strong> probability of winning the 2025 Singapore GP.
+                                {% elif driver.Win_Probability > 0.05 %}
+                                    This driver has a <strong>low</strong> probability of winning the 2025 Singapore GP.
+                                {% else %}
+                                    This driver has a <strong>very low</strong> probability of winning the 2025 Singapore GP.
+                                {% endif %}
+                            </p>
+                        </div>
+                        
+                        <h5>Factors Considered:</h5>
+                        <ul>
+                            <li>Historical Singapore GP performance</li>
+                            <li>Recent form and consistency</li>
+                            <li>Team performance and reliability</li>
+                            <li>Track-specific characteristics</li>
+                            <li>Weather conditions</li>
+                            <li>Driver experience and skill</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="row mt-4">
+                    <div class="col-12">
+                        <h4>Singapore GP History</h4>
+                        <div class="alert alert-warning">
+                            <p class="mb-0">
+                                <i class="fas fa-info-circle"></i> 
+                                Historical performance data is used to calculate win probability. 
+                                This includes past Singapore GP results, podium finishes, and consistency metrics.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <a href="/" class="btn btn-primary">
+                            <i class="fas fa-arrow-left"></i> Back to All Predictions
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

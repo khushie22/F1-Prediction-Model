@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
+.env.*
+.vscode/
+.idea/
+logs/
+*.log
+
+# Data directories and large artifacts
+data/raw/
+data/processed/
+data/features/
+f1_cache/
+*.ff1pkl
+*.pkl
+*.npy
+
+# Track curated CSVs selectively; ignore large CSVs under data
+data/**/*.csv
