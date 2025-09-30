@@ -73,27 +73,27 @@
                     <div class="podium">
                         <!-- 2nd (left) -->
                         <div class="d-flex flex-column align-items-center podium-col podium-second">
-                            <div class="mb-2"><span class="badge bg-primary">🥈 2nd</span></div>
+                            <div class="mb-2"><strong>🥈 2nd</strong></div>
                             <div class="podium-place" style="background: linear-gradient(45deg, #c21a1a, #e43f3f);">
                                 <strong>{{ predictions.iloc[1].FullName }}</strong>
                             </div>
-                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</span></div>
+                            <div class="mt-2"><strong>{{ "%.1f"|format(predictions.iloc[1].Win_Probability * 100) }}%</strong></div>
                         </div>
                         <!-- 1st (center) -->
                         <div class="d-flex flex-column align-items-center podium-col podium-first">
-                            <div class="mb-2"><span class="badge bg-primary">🥇 1st</span></div>
+                            <div class="mb-2"><strong>🥇 1st</strong></div>
                             <div class="podium-place" style="background: linear-gradient(45deg, #a80f0f, #d91f1f);">
                                 <strong>{{ predictions.iloc[0].FullName }}</strong>
                             </div>
-                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</span></div>
+                            <div class="mt-2"><strong>{{ "%.1f"|format(predictions.iloc[0].Win_Probability * 100) }}%</strong></div>
                         </div>
                         <!-- 3rd (right) -->
                         <div class="d-flex flex-column align-items-center podium-col podium-third">
-                            <div class="mb-2"><span class="badge bg-primary">🥉 3rd</span></div>
+                            <div class="mb-2"><strong>🥉 3rd</strong></div>
                             <div class="podium-place" style="background: linear-gradient(45deg, #e45a5a, #ff8f8f);">
                                 <strong>{{ predictions.iloc[2].FullName }}</strong>
                             </div>
-                            <div class="mt-2"><span class="badge bg-light text-dark">{{ "%.1f"|format(predictions.iloc[2].Win_Probability * 100) }}%</span></div>
+                            <div class="mt-2"><strong>{{ "%.1f"|format(predictions.iloc[2].Win_Probability * 100) }}%</strong></div>
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
     justify-content: center;
     align-items: center;
     padding: 12px 8px;
-    color: #fff;
+    color: #000;
 }
 .podium-first .podium-place { height: 140px; }
 .podium-second .podium-place { height: 110px; }
